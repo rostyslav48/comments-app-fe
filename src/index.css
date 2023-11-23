@@ -1,2 +1,8 @@
 :root {
+  --primary-color: #121416;
+  --secondary-color: #6C757D;
+  --components-background: #121416;
+  --stroke-color: #CECECE;
+  --placeholder-color: #757575;
+  --navigation-color: #FFFFFF;
 }
